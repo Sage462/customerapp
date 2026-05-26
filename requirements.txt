@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Flask==3.0.0
 pytest==8.2.0
 gunicorn==22.0.0
+=======
+Flask==3.0.0
+pytest==8.2.0
+gunicorn==22.0.0
+>>>>>>> 82c0ee0aa98f2cd0823946b1a8e0b3f1dd295783
